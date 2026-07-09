@@ -1,5 +1,3 @@
-# -IGOR-3-DOF-Robotic-Arm-ROS-Enabled-
-A 3-DOF robotic arm inspired by Iron Man's 'Dummy', designed for high-precision tasks and future integration with Reinforcement Learning for playing chess.
 # IGOR
 
 <p align="center">
@@ -8,7 +6,7 @@ A 3-DOF robotic arm inspired by Iron Man's 'Dummy', designed for high-precision 
 </p>
 
 <h3 align="center">
-A Vision-Guided 3-DOF Robotic Manipulator with Distributed Embedded Motion Control
+A Vision-Guided ROS enabled 3-DOF Robotic Manipulator with Distributed Embedded Motion Control
 </h3>
 
 <p align="center">
