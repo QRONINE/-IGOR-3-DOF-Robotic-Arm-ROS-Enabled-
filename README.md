@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-A Vision-Guided ROS enabled 3-DOF Robotic Manipulator with Distributed Embedded Motion Control
+A Vision-Guided ROS enabled 3-DOF Robotic Manipulator with Distributed Embedded Motion Control For Chess gameplay  
 </h3>
 
 <p align="center">
